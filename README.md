@@ -8,7 +8,7 @@ The website for the project is https://privacy-as-expected.org/. You can find ou
 
 It has three parts
 
-    a browser add-on to handle Consent Receipts
-    a server component to handle the cryptographic protocol
-    the client javascript code (and html test files) to handle the cryptographic protocol (also under "server")
-    a server component to instantiate the Gateway
+* a browser add-on to handle Consent Receipts
+* a server component to handle the cryptographic protocol
+* the client javascript code (and html test files) to handle the cryptographic protocol (also under "server")
+* a server component to instantiate the Gateway
