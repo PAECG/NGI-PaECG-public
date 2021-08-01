@@ -6,7 +6,7 @@ This code is offered public under a permissive licence. Please remember to ackno
 
 The website for the project is https://privacy-as-expected.org/. You can find our contacts there.
 
-It has three parts
+It has four parts
 
 * a browser add-on to handle Consent Receipts
 * a server component to handle the cryptographic protocol
